@@ -7,3 +7,6 @@
 [submodule "bookaria-viewer"]
 	path = bookaria-viewer
 	url = https://github.com/PhamHaThang/bookaria-viewer
+[submodule "bookaria-3d-generative"]
+	path = bookaria-3d-generative
+	url = https://github.com/yuika-sama/service_hunyuan_3d_generative
